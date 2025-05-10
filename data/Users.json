@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Mokshagna",
+        "Username": "kingslayer",
+        "Email": "moks@gmail.com",
+        "Password": "$2b$12$ggPebPPW3yP.k1k3b8eEyOVbO9GWfprjnOtWZY70OJEVK.K43ozIm",
+        "Role": "SDE"
+    },
+    {
+        "Name": "hari",
+        "Username": "mani",
+        "Email": "harimani@gmail.com",
+        "Password": "$2b$12$tI81OZi9gK6Y/zRuf2ZC9uSwietLvuscUe1Bw9NpdC6JTvsiY4OU2",
+        "Role": "king"
+    },
+    {
+        "Name": "sravya",
+        "Username": "sravya19",
+        "Email": "sravya@gmail.com",
+        "Password": "$2b$12$nosHyPdBwOA10J5BhqxxaOHo32nzxF1kI26qWuV0gnwtlzx./IEk2",
+        "Role": "SDE"
+    },
+    {
+        "Name": "yogi",
+        "Username": "yogi",
+        "Email": "yogi@gmail.com",
+        "Password": "$2b$12$HWjhic2aJiTgU/SVBaZARuf3yXrMSGo0A3eAp1VLI1D03EPv7rpfG",
+        "Role": "sde"
+    },
+    {
+        "Name": "king",
+        "Username": "king",
+        "Email": "kings@gmail.com",
+        "Password": "$2b$12$RWXAzR9jGLulmmyvcZMJY.V4XQPuBwnYqTAfx8diCzUeV2cAKjcQS",
+        "Role": "sde"
+    }
+]
