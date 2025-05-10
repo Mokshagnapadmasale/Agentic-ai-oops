@@ -1,0 +1,172 @@
+05-09-25 16:13:33 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:13:33 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 16:13:33 - APP Management - DEBUG - Deleted user kowshik@gmail.com
+05-09-25 16:26:44 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:26:44 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:32:04 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:32:04 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:32:20 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:32:20 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:33:03 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:33:03 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:33:57 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:33:57 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:34:38 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:34:38 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 16:35:24 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:35:24 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 16:35:24 - APP Management - DEBUG - User Succesfully created for gayi@gmail.com
+05-09-25 16:35:46 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 16:35:46 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 16:35:46 - APP Management - DEBUG - Deleted user gayi@gmail.com
+05-09-25 17:39:23 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 17:39:23 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 17:39:23 - APP Management - DEBUG - User Succesfully created for vijay17
+05-09-25 17:39:51 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 17:39:51 - APP Management - DEBUG - Succesfully returned list all users
+05-09-25 18:19:30 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:19:30 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:19:30 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:19:30 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:19:48 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:19:48 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:19:48 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:19:48 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:27:33 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:27:33 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:27:33 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:27:33 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:28:54 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:28:54 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:28:54 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:28:54 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:30:09 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-09-25 18:30:09 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-09-25 18:30:09 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-09-25 18:30:10 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:30:10 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 18:30:10 - APP Management - DEBUG - User Succesfully created for sravya12
+05-09-25 18:30:36 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:30:36 - APP Management - ERROR - User Credentials not found in data
+05-09-25 18:33:15 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:33:15 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:33:15 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:33:15 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:33:36 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:33:36 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-09-25 18:33:36 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-09-25 18:33:36 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-09-25 18:33:36 - APP Management - ERROR - User Credentials not found in data
+05-09-25 18:35:52 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:35:52 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:35:52 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:35:52 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:36:35 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-09-25 18:36:35 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-09-25 18:36:35 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-09-25 18:36:35 - APP Management - ERROR - No file Detected : data/Users.json
+05-09-25 18:36:35 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 18:36:35 - APP Management - DEBUG - User Succesfully created for kingslayer
+05-09-25 18:37:07 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:37:07 - APP Management - ERROR - User Credentials not found in data
+05-09-25 18:37:16 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:37:16 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:37:16 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:37:16 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:37:58 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-09-25 18:37:58 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-09-25 18:37:58 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-09-25 18:37:58 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:37:58 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 18:37:58 - APP Management - DEBUG - User Succesfully created for mani
+05-09-25 18:38:21 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:38:21 - APP Management - ERROR - User Credentials not found in data
+05-09-25 18:50:51 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:50:51 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:50:51 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:50:51 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:51:06 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-09-25 18:51:06 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-09-25 18:51:06 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-09-25 18:51:06 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-09-25 18:51:40 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:51:40 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "c:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-09-25 18:51:40 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-09-25 18:51:40 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-09-25 18:51:40 - APP Management - ERROR - User Credentials not found in data
+05-09-25 18:52:38 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:52:38 - APP Management - DEBUG - Data Written Succesfully
+05-09-25 18:52:38 - APP Management - DEBUG - User Succesfully created for sravya19
+05-09-25 18:53:00 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-09-25 18:53:00 - APP Management - ERROR - User Credentials not found in data
+05-10-25 08:36:42 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-10-25 08:36:42 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-10-25 08:36:42 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-10-25 08:36:42 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-10-25 08:38:33 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-10-25 08:38:33 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-10-25 08:38:33 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-10-25 08:38:34 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-10-25 08:38:34 - APP Management - DEBUG - Data Written Succesfully
+05-10-25 08:38:34 - APP Management - DEBUG - User Succesfully created for yogi
+05-10-25 08:38:53 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-10-25 08:38:53 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-10-25 08:38:53 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-10-25 08:38:53 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-10-25 08:39:09 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-10-25 08:39:09 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-10-25 08:39:09 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-10-25 08:39:09 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-10-25 08:39:10 - APP Management - ERROR - User Credentials not found in data
+05-10-25 08:54:18 - passlib.utils.compat - DEBUG - loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>
+05-10-25 08:54:18 - passlib.utils.compat - DEBUG - loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>
+05-10-25 08:54:18 - passlib.utils.compat - DEBUG - loaded lazy attr 'BytesIO': <class '_io.BytesIO'>
+05-10-25 08:54:18 - passlib.registry - DEBUG - registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>
+05-10-25 08:54:49 - passlib.handlers.bcrypt - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\moksh\Desktop\Role cli\clivenv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+05-10-25 08:54:49 - passlib.handlers.bcrypt - DEBUG - detected 'bcrypt' backend, version '<unknown>'
+05-10-25 08:54:49 - passlib.handlers.bcrypt - DEBUG - 'bcrypt' backend lacks $2$ support, enabling workaround
+05-10-25 08:54:49 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-10-25 08:54:49 - APP Management - DEBUG - Data Written Succesfully
+05-10-25 08:54:49 - APP Management - DEBUG - User Succesfully created for king
+05-10-25 08:55:12 - APP Management - DEBUG - Data succesfully loaded from data/Users.json
+05-10-25 08:55:13 - APP Management - DEBUG -  User: king succesfully logged in.
